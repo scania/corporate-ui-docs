@@ -1,9 +1,0 @@
-<svg class="nc-icon outline" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64"><g transform="translate(0.5, 0.5)">
-<circle data-color="color-2" fill="none" stroke="#041e42" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" cx="46" cy="28" r="6" stroke-linejoin="miter"></circle>
-<circle data-color="color-2" fill="none" stroke="#041e42" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" cx="14" cy="28" r="4" stroke-linejoin="miter"></circle>
-<circle data-color="color-2" fill="none" stroke="#041e42" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" cx="18" cy="42" r="4" stroke-linejoin="miter"></circle>
-<circle data-color="color-2" fill="none" stroke="#041e42" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" cx="32" cy="48" r="4" stroke-linejoin="miter"></circle>
-<path fill="none" stroke="#041e42" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10" d="M2,30.1
-	C2,19.9,7.1,10.9,14.8,5.4c2.8-1.9,7.3-2.4,9.1,0c2.6,3.4-2.1,8.2,0,11c5.4,6.6,16.8-6.4,30.2,0c9.6,4.8,8.2,17.4,7.1,21.9
-	C57.6,51,46,60.2,32.2,60.2C15.5,60.2,2,46.7,2,30.1z" stroke-linejoin="miter"></path>
-</g></svg>
